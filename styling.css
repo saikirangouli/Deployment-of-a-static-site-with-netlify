@@ -1,0 +1,39 @@
+ody {
+  padding: 0;
+  margin: 0;
+  width: 120vw;
+  height: 130vh;
+  font-family: "Syne Mono", monospace;
+  background-color: #7236ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 500px;
+  max-width: 75%;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 0 8px 1px;
+  padding: 20px;
+}
+
+.button {
+  background-color: #4400ff;
+  color: #ffffff;
+  border-radius: 4px;
+  padding: 10px 40px;
+  margin: 15px 0px;
+  font-size: 1.75rem;
+  border: 5px solid #4400ff;
+}
+
+.button:hover {
+  border: 5px solid black;
+  cursor: pointer;
+}
+
+.button:active {
+  
+}
