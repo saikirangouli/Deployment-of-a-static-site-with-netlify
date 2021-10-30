@@ -12,7 +12,7 @@
 
 <body>
   <div class="container">
-    <h1>Hi pavan,Welcome to your website!</h1>
+    <h1>Hi Sai Kiran,Welcome to your website!</h1>
     <center><b>Successfully</b>, deployed in Netlify</center>
     <button id="clap-button" class="button">👏</button>
   </div>
